@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>healthy &#8211; UniteZone</title>
+	<atom:link href="/tag/healthy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Unity by sharing</description>
+	<lastBuildDate>Thu, 03 Nov 2016 03:56:10 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.4</generator>
+	<item>
+		<title>Top 10 Fruits and Health Benefits</title>
+		<link>/top-10-fruits-and-health-benefits/</link>
+		<comments>/top-10-fruits-and-health-benefits/#respond</comments>
+		<pubDate>Thu, 08 Jan 2015 17:40:12 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+				<category><![CDATA[life]]></category>
+		<category><![CDATA[healthy]]></category>
+
+		<guid isPermaLink="false">/?p=261</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p><iframe width="625" height="352" src="http://www.youtube.com/embed/yLlzYwm13gg?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+]]></content:encoded>
+			<wfw:commentRss>/top-10-fruits-and-health-benefits/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>10 Foods That Are Slowly Killing You</title>
+		<link>/10-foods-that-are-slowly-killing-you/</link>
+		<comments>/10-foods-that-are-slowly-killing-you/#respond</comments>
+		<pubDate>Tue, 06 Jan 2015 17:40:25 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+				<category><![CDATA[life]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[healthy]]></category>
+
+		<guid isPermaLink="false">/?p=250</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p><iframe width="625" height="352" src="http://www.youtube.com/embed/fY08l6yfCdQ?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+]]></content:encoded>
+			<wfw:commentRss>/10-foods-that-are-slowly-killing-you/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

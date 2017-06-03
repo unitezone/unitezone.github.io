@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>animals &#8211; UniteZone</title>
+	<atom:link href="/tag/animals/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Unity by sharing</description>
+	<lastBuildDate>Thu, 03 Nov 2016 03:56:10 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.4</generator>
+	<item>
+		<title>Funny Animals &#038; Mirrors</title>
+		<link>/funny-animals-mirrors/</link>
+		<comments>/funny-animals-mirrors/#respond</comments>
+		<pubDate>Tue, 17 Feb 2015 14:46:17 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+				<category><![CDATA[people]]></category>
+		<category><![CDATA[animals]]></category>
+
+		<guid isPermaLink="false">/?p=342</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=veEb8rg7SMg">https://www.youtube.com/watch?v=veEb8rg7SMg</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/funny-animals-mirrors/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>This is Shocking! The Most Amazing Thing You&#8217;ll Ever Watch!</title>
+		<link>/this-is-shocking-the-most-amazing-thing-youll-ever-watch/</link>
+		<comments>/this-is-shocking-the-most-amazing-thing-youll-ever-watch/#respond</comments>
+		<pubDate>Tue, 17 Feb 2015 14:41:25 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+				<category><![CDATA[life]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[people]]></category>
+		<category><![CDATA[animals]]></category>
+
+		<guid isPermaLink="false">/?p=339</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p><iframe width="625" height="352" src="http://www.youtube.com/embed/Z8iU9y-_afE?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+]]></content:encoded>
+			<wfw:commentRss>/this-is-shocking-the-most-amazing-thing-youll-ever-watch/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

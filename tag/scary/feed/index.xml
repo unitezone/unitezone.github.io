@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>scary &#8211; UniteZone</title>
+	<atom:link href="/tag/scary/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Unity by sharing</description>
+	<lastBuildDate>Thu, 03 Nov 2016 03:56:10 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.4</generator>
+	<item>
+		<title>TransAsia flight going down, caught on camera</title>
+		<link>/transasia/</link>
+		<comments>/transasia/#respond</comments>
+		<pubDate>Thu, 05 Feb 2015 04:13:30 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[news]]></category>
+		<category><![CDATA[flight]]></category>
+		<category><![CDATA[scary]]></category>
+		<category><![CDATA[transasia]]></category>
+
+		<guid isPermaLink="false">/?p=292</guid>
+		<description><![CDATA[A TransAsia Airways flight crashed into a Taipei river shortly after takeoff Wednesday with 58 passengers on board. Dash-cam footage [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>A TransAsia Airways flight crashed into a Taipei river shortly after takeoff Wednesday with 58 passengers on board. Dash-cam footage from cars on a bridge beside the river captured the plane going down. Dozens were either killed or missing.<br />
+<iframe width="625" height="352" src="http://www.youtube.com/embed/lYczDsj0ATI?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+]]></content:encoded>
+			<wfw:commentRss>/transasia/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

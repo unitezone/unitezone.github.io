@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>stick &#8211; UniteZone</title>
+	<atom:link href="/tag/stick/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Unity by sharing</description>
+	<lastBuildDate>Thu, 03 Nov 2016 03:56:10 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.4</generator>
+	<item>
+		<title>He threw what?</title>
+		<link>/he-threw-what/</link>
+		<comments>/he-threw-what/#respond</comments>
+		<pubDate>Fri, 17 Oct 2014 22:54:59 +0000</pubDate>
+		<dc:creator><![CDATA[web user]]></dc:creator>
+				<category><![CDATA[people]]></category>
+		<category><![CDATA[phone]]></category>
+		<category><![CDATA[stick]]></category>
+
+		<guid isPermaLink="false">/?p=154</guid>
+		<description><![CDATA[Well watch out before you throw stuff into the water. Post by Pino Iliceto.]]></description>
+				<content:encoded><![CDATA[<p>Well watch out before you throw stuff into the water.</p>
+<div class="fb-post" data-href="https://www.facebook.com/video.php?v=936604246355495" data-width="466">
+<div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/video.php?v=936604246355495">Post</a> by <a href="https://www.facebook.com/pino.iliceto">Pino Iliceto</a>.</div>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>/he-threw-what/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

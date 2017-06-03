@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kids &#8211; UniteZone</title>
+	<atom:link href="/tag/kids/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Unity by sharing</description>
+	<lastBuildDate>Thu, 03 Nov 2016 03:56:10 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.4</generator>
+	<item>
+		<title>Kids meet their fathers behind bars, their reaction is unbelievable</title>
+		<link>/kids-meet-their-fathers-behind-bars-their-reaction-is-unbelievable/</link>
+		<comments>/kids-meet-their-fathers-behind-bars-their-reaction-is-unbelievable/#respond</comments>
+		<pubDate>Thu, 03 Nov 2016 03:50:47 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[life]]></category>
+		<category><![CDATA[people]]></category>
+		<category><![CDATA[kids]]></category>
+		<category><![CDATA[prison]]></category>
+
+		<guid isPermaLink="false">/?p=731</guid>
+		<description><![CDATA[From convicted murderers to drug dealers, some of these dads have been locked away for most of their children’s lives.]]></description>
+				<content:encoded><![CDATA[<p><iframe width="625" height="352" src="http://www.youtube.com/embed/i5VV0og-a7w?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>From convicted murderers to drug dealers, some of these dads have been locked away for most of their children’s lives.</p>
+]]></content:encoded>
+			<wfw:commentRss>/kids-meet-their-fathers-behind-bars-their-reaction-is-unbelievable/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
